@@ -1,1 +1,0 @@
-# c00lkidd-Executor-By-Lua-Land
